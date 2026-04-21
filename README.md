@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=Arun%20Palanisamy%20AI&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<!-- ✍️ TYPING ANIMATION -->
+<!-- ✍️ CLEAN + PREMIUM TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Data+Scientist+%F0%9F%93%8A;Machine+Learning+Engineer+%F0%9F%A7%A0;Deep+Learning+%7C+Computer+Vision+%F0%9F%91%81;Building+AI+Solutions+That+Matter+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&pause=1200&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision+Engineer;Building+Intelligent+Systems+with+Python;Turning+Data+into+Real+World+AI+Solutions" />
 </p>
 
 
