@@ -1,6 +1,6 @@
-<!-- 🎨 NAME BANNER -->
+<!-- 🎨 NAME BANNER (SOFTER / MORE NATURAL LOOK) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:6366f1&height=120&section=header&text=Arun%20Palanisamy%20AI&fontSize=38&fontColor=ffffff&fontAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=Arun%20Palanisamy%20AI&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <!-- ✍️ TYPING ANIMATION -->
