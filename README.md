@@ -1,13 +1,13 @@
-<!-- 🔥 PROFILE HEADER WITH AVATAR + BRAND BANNER -->
-<p align="center">
-  <img src="https://github.com/arunpalanisamy-dev.png" width="120" style="border-radius:50%;" alt="Arun Palanisamy Avatar"/>
-</p>
-
+<!-- 🎨 NAME BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:6366f1&height=120&section=header&text=Arun%20Palanisamy%20AI&fontSize=38&fontColor=ffffff&fontAlignY=55" />
 </p>
 
-<h3 align="center">📊 Data Scientist | 🧠 AI & Machine Learning Engineer | 👁️ Computer Vision Enthusiast</h3>
+<!-- ✍️ TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Data+Scientist+%F0%9F%93%8A;Machine+Learning+Engineer+%F0%9F%A7%A0;Deep+Learning+%7C+Computer+Vision+%F0%9F%91%81;Building+AI+Solutions+That+Matter+%F0%9F%9A%80" />
+</p>
+
 
 <p align="center">
 I build intelligent systems using Python and AI to solve real-world problems.
@@ -52,9 +52,18 @@ I build intelligent systems using Python and AI to solve real-world problems.
 ---
 
 ## 🌐 Connect With Me
-- 📧 Email: arunpalanisamy.ai@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/arunpalanisamy-ai/  
-- 🐙 GitHub: https://github.com/arunpalanisamy-dev  
+
+<p align="center">
+  <a href="mailto:arunpalanisamy.ai@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/arunpalanisamy-ai/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/arunpalanisamy-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
