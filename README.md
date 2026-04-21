@@ -8,11 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&pause=1200&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision+Engineer;Building+Intelligent+Systems+with+Python;Turning+Data+into+Real+World+AI+Solutions" />
 </p>
 
-
-<p align="center">
-I build intelligent systems using Python and AI to solve real-world problems.
-</p>
-
 ---
 
 ## 🚀 About Me
