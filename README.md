@@ -3,8 +3,6 @@
 # Arun Palanisamy
 ### **Data Scientist & AI Engineer** — *4+ Years Building Production Systems*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunpalanisamy-ai/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunpalanisamy.ai@gmail.com)
 
 </div>
 
@@ -12,9 +10,8 @@
 
 ### ⚡ Overview
 
-I engineer end-to-end AI applications built for real-world usage—moving beyond notebooks into reliable, production-ready systems. 
+  I build end-to-end AI applications for real-world usage—moving beyond notebooks into reliable, production-ready systems. 
 
-* 🏢 **Current Role:** Data Scientist at **Net Carbon Vision**, building Content-Based Image Retrieval (CBIR) systems and local AI copilots.
 * 🤖 **GenAI Focus:** Architecting RAG pipelines, LLM-powered applications, and Natural Language interfaces (e.g., NL-to-SQL copilots using LangChain & Ollama).
 * ⚙️ **Applied ML & CV:** Deep experience in Computer Vision, predictive modeling (forecasting, failure prediction), and automated pipelines.
 * 🛡️ **Production Reliability:** Scaled systems using connection pooling, schema-grounded prompting, caching, modular architecture, and monitoring.
@@ -27,7 +24,7 @@ I engineer end-to-end AI applications built for real-world usage—moving beyond
 
 #### **Core Tools & Environment**
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=python,postgres,sqlite,git,docker,vscode,linux" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,sqlite,git,docker,vscode" alt="Tech Stack Icons" />
 </a>
 
 <br />
@@ -39,10 +36,19 @@ I engineer end-to-end AI applications built for real-world usage—moving beyond
 ![RAG Architecture](https://img.shields.io/badge/RAG_Pipelines-27AE60?style=for-the-badge)
 ![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-D35400?style=for-the-badge)
 
-#### **Domains & Engineering**
+#### **Industry Domains**
+![Finance](https://img.shields.io/badge/Finance-0052CC?style=for-the-badge)
+![Sustainability & Climate Tech](https://img.shields.io/badge/Sustainability_%26_Climate_Tech-2E7D32?style=for-the-badge)
+
+#### **Engineering & Core Specialties**
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge)
 ![CBIR](https://img.shields.io/badge/CBIR-8E44AD?style=for-the-badge)
-![MLOps](https://img.shields.io/badge/MLOps-00599C?style=for-the-badge)
+![LLM Systems & RAG](https://img.shields.io/badge/LLM_Systems_%26_RAG-1C3C3C?style=for-the-badge)
+![NL-to-SQL](https://img.shields.io/badge/NL--to--SQL-00758F?style=for-the-badge)
+![Web Scraping & Automation](https://img.shields.io/badge/Web_Scraping_%26_Automation-E67E22?style=for-the-badge)
+![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-D35400?style=for-the-badge)
+![MLOps & Deployment](https://img.shields.io/badge/MLOps_%26_Deployment-00599C?style=for-the-badge)
+![Vector Search & Databases](https://img.shields.io/badge/Vector_Search_%26_Databases-27AE60?style=for-the-badge)
 
 </div>
 
